@@ -1,4 +1,5 @@
-```html
+<!DOCTYPE html>
+<html>
 <div align="center">
 
   <h1>👋 Hi, I'm Germán Castro Ramos</h1>
@@ -126,4 +127,4 @@
   ·
   <a href="https://github.com/germancastroramos">GitHub</a>
 </p>
-```
+</html>
