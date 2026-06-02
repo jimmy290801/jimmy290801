@@ -64,62 +64,6 @@
 
 <hr>
 
-<h2>🏠 Homelab</h2>
-
-<p>
-  I'm building a personal self-hosted infrastructure focused on learning, automation and deployment.
-</p>
-
-<ul>
-  <li>Proxmox VE as virtualization platform</li>
-  <li>Docker-based services</li>
-  <li>Reverse proxy and HTTPS</li>
-  <li>VPN access</li>
-  <li>Monitoring with Zabbix and Grafana</li>
-  <li>CI/CD and automation labs</li>
-</ul>
-
-<hr>
-
-<h2>📌 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td>
-      <h3>🎙️ AI Voice Platform</h3>
-      <p>Self-hosted platform for voice assistants, conversational bots and automation.</p>
-    </td>
-    <td>
-      <h3>🖥️ Homelab Dashboard</h3>
-      <p>Infrastructure dashboard to visualize services, uptime and monitoring data.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🐳 Docker Compose Stack</h3>
-      <p>Collection of self-hosted services deployed with Docker Compose.</p>
-    </td>
-    <td>
-      <h3>🌐 Portfolio</h3>
-      <p>Personal portfolio with projects, demos and technical documentation.</p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h2>📈 Current Goals</h2>
-
-<ul>
-  <li>Build production-ready web applications</li>
-  <li>Improve cloud and DevOps skills</li>
-  <li>Expand my homelab infrastructure</li>
-  <li>Learn Kubernetes in depth</li>
-  <li>Create useful self-hosted tools</li>
-</ul>
-
-<hr>
-
 <h2>📫 Contact</h2>
 
 <p>
