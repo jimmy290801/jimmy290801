@@ -8,25 +8,55 @@ During my professional experience at **Inicia Soluciones**, I worked with Linux 
 
 Currently based in **Madrid, Spain**, and open to junior opportunities in IT, Systems, DevOps, Infrastructure, Automation and Software Development.
 
+---
+
 ## Technical Skills
 
-**Systems & Infrastructure**
-Linux · Docker · Proxmox · VMware · Nginx · Apache · SSH · pfSense · WireGuard
+### Systems & Infrastructure
 
-**DevOps & Monitoring**
-Git · GitHub · Zabbix · Grafana · Troubleshooting
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx" alt="Linux, Docker, Nginx" />
+</p>
 
-**Automation & Integration**
-Python · Bash · n8n · REST APIs · JSON · Webhooks · Google Apps Script
+**Linux · Docker · Proxmox · VMware · Nginx · Apache · SSH · pfSense · WireGuard**
 
-**Development**
-JavaScript · Node.js · FastAPI · Vue.js · React · Angular · PHP
+### DevOps & Monitoring
 
-**Databases**
-SQL · MySQL · MariaDB
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,grafana" alt="Git, GitHub, Grafana" />
+</p>
 
-**AI & LLM Integration**
-LLM APIs · AI-assisted workflows · ChatGPT · Claude · Gemini
+**Git · GitHub · Zabbix · Grafana · Troubleshooting**
+
+### Automation & Integration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" alt="Python, Bash" />
+</p>
+
+**Python · Bash · n8n · REST APIs · JSON · Webhooks · Google Apps Script**
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,fastapi,vue,react,angular,php" alt="JavaScript, Node.js, FastAPI, Vue, React, Angular, PHP" />
+</p>
+
+**JavaScript · Node.js · FastAPI · Vue.js · React · Angular · PHP**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
+</p>
+
+**SQL · MySQL · MariaDB · PostgreSQL**
+
+### AI & LLM Integration
+
+**LLM APIs · AI-assisted workflows · ChatGPT · Claude · Gemini**
+
+---
 
 ## Experience
 
@@ -51,15 +81,21 @@ LLM APIs · AI-assisted workflows · ChatGPT · Claude · Gemini
 * Assisted with web applications, APIs and internal services.
 * Participated in troubleshooting, documentation and technical support.
 
+---
+
 ## Projects
 
 ### Docker Compose Stack
 
 Containerized environment built with **FastAPI, PostgreSQL, Redis and Nginx**, focused on service orchestration, networking, persistence and reproducible deployments using Docker Compose.
 
-`Docker` `FastAPI` `PostgreSQL` `Redis` `Nginx`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,postgres,redis,nginx" alt="Docker, FastAPI, PostgreSQL, Redis, Nginx" />
+</p>
 
-More projects focused on Linux, automation, monitoring and CI/CD will be added as they are completed.
+More projects focused on **Linux, automation, monitoring and CI/CD** will be added as they are completed.
+
+---
 
 ## Education
 
@@ -69,7 +105,9 @@ Universitat Oberta de Catalunya (UOC) — Currently enrolled
 **Higher Vocational Diploma in Web Application Development (DAW)**
 I.E.S. Lázaro Cárdenas
 
+---
+
 ## Contact
 
-**Portfolio:** https://jimmy290801.github.io/Portfolio/
-**LinkedIn:** https://www.linkedin.com/in/germancastroramos/
+[Portfolio](https://jimmy290801.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/germancastroramos/)
+
