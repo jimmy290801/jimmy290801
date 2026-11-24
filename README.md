@@ -3,13 +3,13 @@
 
 **IT & DevOps Junior | Linux · Infrastructure · Monitoring · Automation**
 
-IT professional with over a year of experience in systems administration, infrastructure management, monitoring, process automation and web application development.
+IT professional with over a year of experience in systems administration, infrastructure management, monitoring, automation and web application development.
 
 During my professional experience at **Inicia Soluciones**, I worked with Linux environments, virtualization, cloud infrastructure, containerized applications, monitoring systems, telecommunications and service integrations.
 
-I also maintain my own **homelab**, where I experiment with infrastructure management, networking, virtualization, observability, automation and new technologies through practical projects.
+My background in software development allows me to work across both infrastructure and application layers, with a particular interest in system reliability, automation and continuous improvement.
 
-Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Systems Administration, Infrastructure, Monitoring, Technical Support and Automation.
+Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Administration, Infrastructure, Monitoring, Technical Support and Automation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://jimmy290801.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germancastroramos/)
@@ -21,20 +21,23 @@ Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Syst
 ### Systems & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx" alt="Systems and Infrastructure" />
+  <img height="48" src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx" alt="Linux, Debian, Ubuntu, Docker, Nginx" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png" alt="Proxmox" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware.png" alt="VMware" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/portainer.png" alt="Portainer" />
 </p>
 
 **Linux · Debian · Ubuntu · Docker · Docker Compose · Proxmox VE · VMware · Nginx · Apache · SSH · Portainer**
 
 - Linux systems administration.
-- Virtual machine and container management.
+- Virtualization and container management.
 - Application deployment and maintenance.
 - Infrastructure troubleshooting.
 
 ### DevOps & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" alt="DevOps and CI/CD" />
+  <img height="48" src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" alt="Git, GitHub, GitLab, GitHub Actions" />
 </p>
 
 **Git · GitHub · GitLab · GitHub Actions · GitLab CI/CD**
@@ -42,75 +45,104 @@ Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Syst
 - Version control and repository management.
 - Build, test and deployment workflows.
 - Containerized application environments.
-- Currently developing practical Kubernetes skills.
 
 ### Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zabbix.png" alt="Zabbix" />
+  <img height="48" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/uptime-kuma.png" alt="Uptime Kuma" />
 </p>
 
 **Zabbix · Grafana · Uptime Kuma · Log Analysis · Troubleshooting**
 
 - Infrastructure and service monitoring.
-- Dashboard configuration and visualization.
-- System resource and availability monitoring.
+- Metrics and dashboard configuration.
+- Resource utilization and availability monitoring.
 - Incident diagnosis and log analysis.
 
 ### Networking & Security
 
+<p>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pfsense.png" alt="pfSense" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="WireGuard" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openvpn.png" alt="OpenVPN" />
+</p>
+
 **TCP/IP · DNS · DHCP · pfSense · WireGuard · OpenVPN · Firewalls · SSH**
 
-- Network configuration and troubleshooting.
-- Firewall and VPN administration.
-- Remote infrastructure access.
-- Network connectivity and service diagnostics.
+- Network administration and troubleshooting.
+- Firewall configuration.
+- VPN connectivity and secure remote access.
+- Network and service diagnostics.
 
 ### Cloud & Microsoft Ecosystem
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
+  <img height="48" src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
 </p>
+
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square)
 
 **Microsoft Azure · Microsoft Entra ID · Microsoft 365 · Microsoft Teams**
 
 - Cloud resource administration.
 - User and identity management.
-- Access and permissions management.
-- Microsoft services administration and support.
+- Access control and permissions.
+- Microsoft services administration and technical support.
 
 ### Automation & Integration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell" alt="Automation and Scripting" />
+  <img height="48" src="https://skillicons.dev/icons?i=python,bash" alt="Python, Bash" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png" alt="n8n" />
 </p>
 
 **Python · Bash · n8n · REST APIs · JSON · Webhooks · Google Apps Script**
 
 - Infrastructure and process automation.
-- API integrations.
 - Script development.
+- API integrations.
 - Automated workflows and service integrations.
 
 ### Software & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,fastapi,vue,react,angular,php,java" alt="Software Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,fastapi,vue,react,angular,php,java&perline=10" alt="Software and Web Development" />
 </p>
 
 **HTML · CSS · JavaScript · Node.js · FastAPI · Vue.js · React · Angular · PHP · Java**
 
+- Frontend and backend development.
+- REST API development and integration.
+- Application maintenance and debugging.
+- Development of internal tools and services.
+
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Databases" />
+  <img height="48" src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="MySQL, PostgreSQL, Redis" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mariadb.png" alt="MariaDB" />
 </p>
 
 **SQL · MySQL · MariaDB · PostgreSQL · Redis**
 
+- Database configuration and management.
+- SQL queries and data manipulation.
+- Application and database integration.
+- Persistent storage in containerized environments.
+
 ### Telecommunications & VoIP
 
-**SIP · VoIP · AudioCodes · Vocalcom · XCALLY**
+![VoIP](https://img.shields.io/badge/VoIP-0078D4?style=flat-square)
+![SIP](https://img.shields.io/badge/SIP-374151?style=flat-square)
+![AudioCodes](https://img.shields.io/badge/AudioCodes-00549F?style=flat-square)
+![Vocalcom](https://img.shields.io/badge/Vocalcom-E30613?style=flat-square)
+![XCALLY](https://img.shields.io/badge/XCALLY-009FE3?style=flat-square)
+
+**VoIP · SIP · AudioCodes · Vocalcom · XCALLY**
 
 - Contact center platform administration.
 - IVR configuration.
@@ -120,12 +152,17 @@ Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Syst
 
 ### Artificial Intelligence & Integrations
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
+
 **LLM APIs · ChatGPT · Claude · Gemini · ElevenLabs**
 
 - AI-assisted workflows.
-- Integration of language models into applications.
-- Voice-based integrations.
-- Intelligent automation and personal assistant experimentation.
+- Language model integrations.
+- Voice synthesis and conversational interfaces.
+- Intelligent process automation.
 
 ---
 
@@ -138,10 +175,11 @@ Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Syst
 - Administration and maintenance of Linux-based cloud and on-premise infrastructure.
 - Deployment, configuration and maintenance of Docker containers and services.
 - Virtualization and infrastructure management using Proxmox and VMware.
-- Infrastructure monitoring, dashboard configuration and troubleshooting using Zabbix and Grafana.
+- Infrastructure monitoring and troubleshooting using Zabbix and Grafana.
 - Network administration, firewall configuration and VPN connectivity.
 - Administration of Microsoft Azure, Entra ID and Microsoft 365 environments.
-- Process automation and service integration using Python, Bash, n8n and REST APIs.
+- Process automation using Python, Bash and n8n.
+- Service integrations through REST APIs, JSON and webhooks.
 - Version control and support for application testing and CI/CD workflows.
 - Development and maintenance of web applications, APIs and internal tools.
 - Administration and troubleshooting of VoIP and contact center platforms.
@@ -158,36 +196,7 @@ Based in **Madrid, Spain**, and open to junior opportunities in IT, DevOps, Syst
 
 ---
 
-## Personal Projects
-
-### Infrastructure & Monitoring Homelab
-
-**Status: Operational and continuously evolving**
-
-Personal infrastructure environment designed to develop practical skills in systems administration, virtualization, networking, monitoring and service management.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,grafana,nginx" alt="Homelab technologies" />
-</p>
-
-**Infrastructure:**
-
-- Beelink mini PC running Proxmox VE.
-- Virtualized Debian environments.
-- Docker and Docker Compose.
-- Centralized container management using Portainer.
-- pfSense firewall and network administration.
-- WireGuard VPN for secure remote access.
-
-**Monitoring and services:**
-
-- Zabbix Server and Zabbix Agent.
-- Grafana dashboards for system metrics.
-- Uptime Kuma for service availability monitoring.
-- Homepage for centralized service access.
-- Proxmox API integration and permission management.
-
-This environment serves as a practical laboratory for infrastructure management, service deployment, troubleshooting, networking and automation.
+## Projects
 
 ### Docker Compose Stack
 
@@ -196,7 +205,7 @@ This environment serves as a practical laboratory for infrastructure management,
 Containerized application environment focused on service orchestration, networking, persistence and reproducible deployments.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,postgres,redis,nginx" alt="Docker Compose Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,postgres,redis,nginx" alt="Docker, FastAPI, PostgreSQL, Redis, Nginx" />
 </p>
 
 **Technologies:** Docker Compose, FastAPI, PostgreSQL, Redis and Nginx.
@@ -207,14 +216,14 @@ Containerized application environment focused on service orchestration, networki
 - Reverse proxy configuration.
 - Backend and database integration.
 
-### AI-Powered Robotic Home Assistant
+### AI-Powered Robotic Assistant
 
 **Status: In development**
 
-Personal robotics project combining embedded systems, artificial intelligence, home automation and infrastructure management.
+Robotics project combining embedded systems, artificial intelligence, software development and automation.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,python,linux,docker" alt="Robotics and AI" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,python,linux" alt="Raspberry Pi, Python, Linux" />
 </p>
 
 **Technologies:** Raspberry Pi 5, Python, Linux, Freenove 4WD, I2C, SPI and AI APIs.
@@ -225,28 +234,24 @@ Personal robotics project combining embedded systems, artificial intelligence, h
 - Voice interaction and speech synthesis.
 - Camera-based environmental perception.
 - Obstacle detection and navigation.
-- Integration with local infrastructure and services.
 - Remote management and monitoring.
-- AI-powered personal assistance.
+- Artificial intelligence integration.
 
-### Kubernetes & CI/CD Laboratory
+---
 
-**Status: Learning and experimentation**
-
-Personal learning environment focused on expanding my knowledge of container orchestration and automated software delivery.
+## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,githubactions" alt="Kubernetes and CI/CD" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,githubactions" alt="Kubernetes, Docker, GitLab, GitHub Actions" />
 </p>
 
-**Areas of development:**
-
-- Kubernetes architecture and fundamentals.
-- Container runtimes.
-- Application deployment and service management.
-- CI/CD pipeline configuration.
-- Automated builds and deployments.
-- Infrastructure troubleshooting.
+- Kubernetes and container orchestration.
+- Advanced CI/CD pipelines.
+- Infrastructure as Code.
+- Monitoring and observability.
+- Distributed systems.
+- Computer networking.
+- Robotics and artificial intelligence.
 
 ---
 
@@ -262,18 +267,6 @@ I.E.S. Lázaro Cárdenas — 2024
 
 ---
 
-## Currently Learning
-
-- Kubernetes and container orchestration.
-- Advanced CI/CD pipelines.
-- Infrastructure as Code.
-- Infrastructure monitoring and observability.
-- Distributed systems.
-- Computer networking.
-- Robotics and artificial intelligence.
-
----
-
 ## Languages
 
 - **Spanish:** Native
@@ -284,15 +277,15 @@ I.E.S. Lázaro Cárdenas — 2024
 
 ## Professional Interests
 
-Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Networking · Automation · Robotics · Artificial Intelligence
+Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Networking · Cybersecurity · Automation · Robotics · Artificial Intelligence
 
 ---
 
 ## Contact
 
-- **Location:** Madrid, Spain
-- **Availability:** Immediate
-- **Portfolio:** [Personal Portfolio](https://jimmy290801.github.io/Portfolio/)
-- **LinkedIn:** [Germán Castro Ramos](https://www.linkedin.com/in/germancastroramos/)
+**Location:** Madrid, Spain
 
+**Availability:** Immediate
+
+[Portfolio](https://jimmy290801.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/germancastroramos/)
 
