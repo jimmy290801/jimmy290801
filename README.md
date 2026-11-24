@@ -34,19 +34,24 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Application deployment and maintenance.
 - Infrastructure configuration and troubleshooting.
 - Remote systems administration.
+- Distributed systems fundamentals.
+- Service management and infrastructure reliability.
 
 ### DevOps & CI/CD
 
 <p>
-  <img height="48" src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" alt="Git, GitHub, GitLab, GitHub Actions" />
+  <img height="48" src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes" alt="Git, GitHub, GitLab, GitHub Actions, Docker, Kubernetes" />
 </p>
 
-**Git · GitHub · GitLab · GitHub Actions · GitLab CI/CD**
+**Git · GitHub · GitLab · GitHub Actions · GitLab CI/CD · Kubernetes · Infrastructure as Code (IaC)**
 
 - Version control and repository management.
-- Build, test and deployment workflows.
-- Support for continuous integration and delivery.
-- Containerized application environments.
+- CI/CD pipeline configuration.
+- Continuous integration and continuous delivery.
+- Automated build, test and deployment workflows.
+- Container orchestration fundamentals.
+- Kubernetes architecture, workloads and services.
+- Infrastructure as Code principles.
 - Application deployment and troubleshooting.
 
 ### Monitoring & Observability
@@ -57,13 +62,15 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
   <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/uptime-kuma.png" alt="Uptime Kuma" />
 </p>
 
-**Zabbix · Grafana · Uptime Kuma · Log Analysis · Troubleshooting**
+**Zabbix · Grafana · Uptime Kuma · Log Analysis · Observability · Troubleshooting**
 
 - Infrastructure and service monitoring.
-- Metrics and dashboard configuration.
+- Metrics collection and visualization.
+- Dashboard configuration and management.
 - Resource utilization and availability monitoring.
+- System performance analysis.
 - Incident diagnosis and log analysis.
-- System performance monitoring and troubleshooting.
+- Infrastructure health and service reliability.
 
 ### Networking & Security
 
@@ -73,13 +80,15 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
   <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openvpn.png" alt="OpenVPN" />
 </p>
 
-**TCP/IP · DNS · DHCP · pfSense · WireGuard · OpenVPN · Firewalls · SSH**
+**TCP/IP · DNS · DHCP · HTTP/HTTPS · pfSense · WireGuard · OpenVPN · Firewalls · SSH**
 
 - Network administration and troubleshooting.
+- Network protocols and communication architectures.
 - Firewall configuration and management.
 - VPN connectivity and secure remote access.
 - Network and service diagnostics.
 - Network connectivity and access management.
+- Network security fundamentals.
 
 ### Cloud & Microsoft Ecosystem
 
@@ -93,11 +102,13 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 
 **Microsoft Azure · Microsoft Entra ID · Microsoft 365 · Microsoft Teams**
 
-- Cloud resource administration.
+- Cloud infrastructure and resource administration.
 - User and identity management.
 - Access control and permissions.
+- Cloud service configuration and maintenance.
 - Microsoft services administration.
 - Technical support and troubleshooting.
+- Hybrid cloud and on-premise environments.
 
 ### Automation & Integration
 
@@ -113,6 +124,8 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - REST API integrations.
 - Automated workflows and service integrations.
 - Automation of repetitive administrative tasks.
+- Data processing and information exchange.
+- Integration between platforms and applications.
 
 ### Software & Web Development
 
@@ -127,6 +140,9 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Application maintenance and debugging.
 - Development of internal tools and services.
 - Integration between applications and infrastructure.
+- Client-server architectures.
+- Object-oriented programming.
+- Software testing and troubleshooting.
 
 ### Databases
 
@@ -139,8 +155,10 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 
 - Database configuration and management.
 - SQL queries and data manipulation.
+- Relational database design.
 - Application and database integration.
 - Persistent storage in containerized environments.
+- Database connectivity and troubleshooting.
 
 ### Telecommunications & VoIP
 
@@ -158,6 +176,7 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - SIP configuration and troubleshooting.
 - Telecommunications service maintenance.
 - Log analysis and incident resolution.
+- Voice platform integration and technical support.
 
 ### Artificial Intelligence & Integrations
 
@@ -173,6 +192,22 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Voice synthesis and conversational interfaces.
 - Intelligent process automation.
 - Integration of AI capabilities into applications.
+- AI-powered assistants and service integrations.
+
+### Robotics & Embedded Systems
+
+<p>
+  <img height="48" src="https://skillicons.dev/icons?i=raspberrypi,python,linux" alt="Raspberry Pi, Python, Linux" />
+</p>
+
+**Raspberry Pi · Python · Linux · I2C · SPI · Embedded Systems · Robotics**
+
+- Embedded Linux environments.
+- Hardware and software integration.
+- Sensor and actuator communication fundamentals.
+- Robotic control and automation.
+- Integration of artificial intelligence into robotic systems.
+- Camera and voice-based interaction systems.
 
 ---
 
@@ -231,7 +266,7 @@ Containerized application environment focused on service orchestration, networki
 Robotics project combining embedded systems, artificial intelligence, software development and automation.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,python,linux" alt="Raspberry Pi, Python, Linux" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,python,linux,docker" alt="Raspberry Pi, Python, Linux, Docker" />
 </p>
 
 **Technologies:** Raspberry Pi 5, Python, Linux, Freenove 4WD, I2C, SPI and AI APIs.
@@ -245,35 +280,15 @@ Robotics project combining embedded systems, artificial intelligence, software d
 - Remote management and monitoring.
 - Integration with external applications and services.
 - Artificial intelligence integration.
-
----
-
-## Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,githubactions" alt="Kubernetes, Docker, GitLab, GitHub Actions" />
-</p>
-
-- Kubernetes and container orchestration.
-- Advanced CI/CD pipelines.
-- Infrastructure as Code (IaC).
-- Infrastructure monitoring and observability.
-- Cloud infrastructure.
-- Distributed systems.
-- Computer networking.
-- Robotics and artificial intelligence.
+- Hardware and software integration.
 
 ---
 
 ## Education
 
-### Bachelor's Degree in Computer Engineering
-
-Universitat Oberta de Catalunya (UOC)
-
 ### Higher Vocational Diploma in Web Application Development (DAW)
 
-I.E.S. Lázaro Cárdenas — 2024
+**I.E.S. Lázaro Cárdenas — 2024**
 
 ---
 
@@ -287,7 +302,7 @@ I.E.S. Lázaro Cárdenas — 2024
 
 ## Professional Interests
 
-Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Observability · Networking · Cybersecurity · Automation · Software Development · Robotics · Artificial Intelligence
+Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Observability · Networking · Cybersecurity · Automation · Distributed Systems · Software Development · Robotics · Artificial Intelligence
 
 ---
 
@@ -299,4 +314,3 @@ Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://jimmy290801.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germancastroramos/)
-
