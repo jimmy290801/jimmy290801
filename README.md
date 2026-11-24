@@ -32,7 +32,8 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Linux systems administration.
 - Virtualization and container management.
 - Application deployment and maintenance.
-- Infrastructure troubleshooting.
+- Infrastructure configuration and troubleshooting.
+- Remote systems administration.
 
 ### DevOps & CI/CD
 
@@ -44,12 +45,14 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 
 - Version control and repository management.
 - Build, test and deployment workflows.
+- Support for continuous integration and delivery.
 - Containerized application environments.
+- Application deployment and troubleshooting.
 
 ### Monitoring & Observability
 
 <p>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zabbix.png" alt="Zabbix" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/zabbix.png" alt="Zabbix" />
   <img height="48" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/uptime-kuma.png" alt="Uptime Kuma" />
 </p>
@@ -60,6 +63,7 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Metrics and dashboard configuration.
 - Resource utilization and availability monitoring.
 - Incident diagnosis and log analysis.
+- System performance monitoring and troubleshooting.
 
 ### Networking & Security
 
@@ -72,9 +76,10 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 **TCP/IP · DNS · DHCP · pfSense · WireGuard · OpenVPN · Firewalls · SSH**
 
 - Network administration and troubleshooting.
-- Firewall configuration.
+- Firewall configuration and management.
 - VPN connectivity and secure remote access.
 - Network and service diagnostics.
+- Network connectivity and access management.
 
 ### Cloud & Microsoft Ecosystem
 
@@ -91,7 +96,8 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Cloud resource administration.
 - User and identity management.
 - Access control and permissions.
-- Microsoft services administration and technical support.
+- Microsoft services administration.
+- Technical support and troubleshooting.
 
 ### Automation & Integration
 
@@ -103,9 +109,10 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 **Python · Bash · n8n · REST APIs · JSON · Webhooks · Google Apps Script**
 
 - Infrastructure and process automation.
-- Script development.
-- API integrations.
+- Script development and maintenance.
+- REST API integrations.
 - Automated workflows and service integrations.
+- Automation of repetitive administrative tasks.
 
 ### Software & Web Development
 
@@ -119,6 +126,7 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - REST API development and integration.
 - Application maintenance and debugging.
 - Development of internal tools and services.
+- Integration between applications and infrastructure.
 
 ### Databases
 
@@ -145,10 +153,11 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 **VoIP · SIP · AudioCodes · Vocalcom · XCALLY**
 
 - Contact center platform administration.
-- IVR configuration.
+- IVR configuration and management.
 - Call queues and routing.
 - SIP configuration and troubleshooting.
-- Service maintenance and log analysis.
+- Telecommunications service maintenance.
+- Log analysis and incident resolution.
 
 ### Artificial Intelligence & Integrations
 
@@ -163,36 +172,34 @@ Based in **Madrid, Spain**, and open to opportunities in IT, DevOps, Systems Adm
 - Language model integrations.
 - Voice synthesis and conversational interfaces.
 - Intelligent process automation.
+- Integration of AI capabilities into applications.
 
 ---
 
 ## Professional Experience
 
-### Junior DevOps Engineer — Inicia Soluciones
+### IT & Junior DevOps Engineer — Inicia Soluciones
 
-**January 2025 – January 2026**
+**October 2024 – January 2026 | 1 year and 3 months**
 
 - Administration and maintenance of Linux-based cloud and on-premise infrastructure.
-- Deployment, configuration and maintenance of Docker containers and services.
 - Virtualization and infrastructure management using Proxmox and VMware.
-- Infrastructure monitoring and troubleshooting using Zabbix and Grafana.
-- Network administration, firewall configuration and VPN connectivity.
-- Administration of Microsoft Azure, Entra ID and Microsoft 365 environments.
-- Process automation using Python, Bash and n8n.
+- Deployment, configuration and maintenance of Docker containers and services.
+- Infrastructure and service monitoring using Zabbix and Grafana.
+- System troubleshooting, incident resolution and log analysis.
+- Network administration, firewall configuration and VPN connectivity using pfSense and OpenVPN.
+- Administration of Microsoft Azure, Microsoft Entra ID and Microsoft 365 environments.
+- Management of users, identities, resources and access permissions.
+- Version control using Git, GitHub and GitLab.
+- Support for application testing, deployment and CI/CD workflows.
+- Infrastructure and process automation using Python, Bash and n8n.
 - Service integrations through REST APIs, JSON and webhooks.
-- Version control and support for application testing and CI/CD workflows.
 - Development and maintenance of web applications, APIs and internal tools.
-- Administration and troubleshooting of VoIP and contact center platforms.
+- Database management using MySQL and MariaDB.
+- Administration of VoIP and contact center platforms, including Vocalcom, XCALLY and AudioCodes.
+- Configuration of SIP communications, IVRs, call queues and routing.
 - Development and testing of AI-assisted workflows and LLM integrations.
-
-### DevOps Intern — Inicia Soluciones
-
-**October 2024 – December 2024**
-
-- Supported Linux systems administration and virtualized infrastructure.
-- Assisted with application deployment and containerized services.
-- Participated in web application development and API integrations.
-- Provided technical support, troubleshooting and documentation.
+- Technical documentation and IT support.
 
 ---
 
@@ -215,6 +222,7 @@ Containerized application environment focused on service orchestration, networki
 - Persistent data storage.
 - Reverse proxy configuration.
 - Backend and database integration.
+- Reproducible application deployments.
 
 ### AI-Powered Robotic Assistant
 
@@ -235,6 +243,7 @@ Robotics project combining embedded systems, artificial intelligence, software d
 - Camera-based environmental perception.
 - Obstacle detection and navigation.
 - Remote management and monitoring.
+- Integration with external applications and services.
 - Artificial intelligence integration.
 
 ---
@@ -247,8 +256,9 @@ Robotics project combining embedded systems, artificial intelligence, software d
 
 - Kubernetes and container orchestration.
 - Advanced CI/CD pipelines.
-- Infrastructure as Code.
-- Monitoring and observability.
+- Infrastructure as Code (IaC).
+- Infrastructure monitoring and observability.
+- Cloud infrastructure.
 - Distributed systems.
 - Computer networking.
 - Robotics and artificial intelligence.
@@ -277,7 +287,7 @@ I.E.S. Lázaro Cárdenas — 2024
 
 ## Professional Interests
 
-Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Networking · Cybersecurity · Automation · Robotics · Artificial Intelligence
+Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitoring · Observability · Networking · Cybersecurity · Automation · Software Development · Robotics · Artificial Intelligence
 
 ---
 
@@ -287,5 +297,6 @@ Systems Administration · DevOps · Infrastructure · Cloud Computing · Monitor
 
 **Availability:** Immediate
 
-[Portfolio](https://jimmy290801.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/germancastroramos/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://jimmy290801.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germancastroramos/)
 
